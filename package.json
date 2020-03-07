@@ -1,0 +1,20 @@
+{
+  "name": "blake-gilmartin-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Gilmartin",
+  "license": "ISC"
+}
